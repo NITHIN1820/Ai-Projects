@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:-//WebinarJam/WebinarJam//EN
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VEVENT
+UID:yqGmu4jrfxewRsG
+SUMMARY:3 hour BooTcamp on Full Stack Development - 17.11.2024
+DESCRIPTION:Webinar: 3 hour BooTcamp on Full Stack Development - 17.11.2024\nDescription: E certificate for All Participants\nHost(s): bharani chandar s\nWebinar link: https://event.webinarjam.com/go/live/258/96w4wi8zf9zys37no5s4y117
+DTSTAMP:20241117T050000Z
+DTSTART:20241117T050000Z
+DTEND:20241117T060000Z
+END:VEVENT
+END:VCALENDAR
